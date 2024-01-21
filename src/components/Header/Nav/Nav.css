@@ -1,0 +1,17 @@
+.header__nav {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.nav__list {
+    display: flex;
+    align-items: normal;
+    list-style: none;
+    gap: 20px;
+}
+
+.nav__item a {
+    font-size: 35px;
+    color: white;
+}
